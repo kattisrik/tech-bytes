@@ -2,7 +2,7 @@
   "name": "react-project-demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kattisrik.github.io/React-Project-Demo",
+  "homepage": "http://kattisrik.github.io/tech-bytes",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"

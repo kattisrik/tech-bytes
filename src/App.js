@@ -11,7 +11,7 @@ class App extends Component {
           <h2>Welcome to React</h2>
         </div>
         <p className="App-intro">
-          Hi, I am Srikanth Katti, I work at Synamedia as a software engineer.
+          Hi, I am Srikanth Katti, <span role="img" aria-label="hello">👋🏻</span>
         </p>
       </div>
     );
